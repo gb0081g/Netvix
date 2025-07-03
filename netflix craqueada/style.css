@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+
+.pai{
+    width: auto;
+    height: 3rem;
+    background: #000000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+.catalogo{
+    width: 12rem;
+    height: 3rem;
+    color: rgb(150, 1, 1);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+    background-size: cover;
+}
+.catalogo:hover{
+    background-color:rgb(150, 1, 1);
+    color: black;
+}
+.logo{
+    width: 12rem;
+    height: 12rem;
+}
+.mae{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.filmes{
+    margin: 2rem;
+    width: 196px;
+    height: 285px;
+    
+}
+.miranha{
+    background-size:cover ;
+}
